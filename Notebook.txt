@@ -1,0 +1,13 @@
+Ноутбуки:
+Поля:
+ОЗУ(RAM)
+Модель(model)
+Хранилище(storage)
+Операционная система(operatingSystem)
+Цвет(color)
+
+Методы:
+Геттеры(getRAM, getModel, getStorage...)
+Сеттеры(setRAM, setModel, setStorage...)
+Добавить ОЗУ(addRAM)
+Добавить Модель(addModel)...
